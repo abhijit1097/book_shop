@@ -37,7 +37,7 @@
 							<h1 class="title">About the developer</h1>
 							<div class="entry" style="height:auto">
 		
-	<img src="abhi.jpg"  style="width:304px;height:228px;">														
+	<img src="abhi.jpg"  style="width:304px;height:228px;"><br>													
 	Developer Name-Abhijit Mohanty<br>
 	currently pursuing B.tech in National Institute Of Science And Technology.
 	
